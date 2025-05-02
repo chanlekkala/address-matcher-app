@@ -123,4 +123,4 @@ Upload these into the app to explore and test.
 
 ### 🙌 Credits
 
-Built by [Your Name] as a proof of concept for address normalization, deduplication, and matching in data engineering and data quality workflows.
+Built by [Chandra Lekkala](https://github.com/chanlekkala) as a proof of concept for address normalization, deduplication, and matching in data engineering and data quality workflows.

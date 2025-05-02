@@ -1,0 +1,80 @@
+[
+    {
+        "address": "123 Main St Apt 4B, Cincinnati, OH 45202"
+    },
+    {
+        "address": "123 Main Street Apt 4B, Cincinnati, OH 45202"
+    },
+    {
+        "address": "123 Main St. Apt 4B, Cincinnati, Ohio 45202"
+    },
+    {
+        "address": "123 Main St Apt 4B, Cincinnati OH 45202"
+    },
+    {
+        "address": "123 Main St Apt 5A, Cincinnati, OH 45202"
+    },
+    {
+        "address": "123 Main St, Cincinnati, OH 45202"
+    },
+    {
+        "address": "123 Main Street, Cincinnati, OH 45202"
+    },
+    {
+        "address": "124 Main St, Cincinnati, OH 45202"
+    },
+    {
+        "address": "500 Elm St #210, Dallas, TX 75202"
+    },
+    {
+        "address": "500 Elm Street Unit 210, Dallas, TX 75202"
+    },
+    {
+        "address": "500 Elm St, Dallas, TX 75202"
+    },
+    {
+        "address": "500 Elm St Suite 210, Dallas, TX 75202"
+    },
+    {
+        "address": "742 Evergreen Terrace, Springfield, IL 62704"
+    },
+    {
+        "address": "742 Evergreen Ter, Springfield, IL 62704"
+    },
+    {
+        "address": "742 Evergrn Terrace, Springfield, IL 62704"
+    },
+    {
+        "address": "1600 Pennsylvania Ave NW, Washington, DC 20500"
+    },
+    {
+        "address": "1600 Pennsylvania Avenue Northwest, Washington, DC 20500"
+    },
+    {
+        "address": "PO Box 12345, New York, NY 10001"
+    },
+    {
+        "address": "P.O. Box 12345, New York, NY 10001"
+    },
+    {
+        "address": "POB 12345, New York, NY 10001"
+    },
+    {
+        "address": "Main St, USA"
+    },
+    {
+        "address": "12345"
+    },
+    {
+        "address": ""
+    },
+    {
+        "address": null
+    },
+    {
+        "address": "999 Unknown Road, Nowhere, ZZ 99999"
+    },
+    {
+        "address": "999 Unkown Rd, Nowhere, ZZ 99999"
+    }
+]

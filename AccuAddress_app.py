@@ -29,12 +29,16 @@ if uploaded_file:
         for addr in addresses:
             try:
                 parsed, _ = usaddress.tag(addr)
-                if all(k in parsed for k in ['AddressNumber', 'StreetName', 'PlaceName']):
+                if (
+                    all(k in parsed for k in ['AddressNumber', 'StreetName', 'PlaceName']) or
+                    all(k in parsed for k in ['USPSBoxType', 'USPSBoxID', 'PlaceName'])
+                ):
                     valid_addresses.append(addr)
                 else:
                     invalid_addresses.append(addr)
             except:
                 invalid_addresses.append(addr)
+
 
         threshold = st.slider("Set similarity threshold (%)", 70, 100, 85, 1)
         similar_pairs = []

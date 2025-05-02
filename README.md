@@ -13,7 +13,7 @@ This project is a Streamlit web app that:
 ### 🌐 Live Demo
 
 ✅ Check out the hosted live app here:  
-[https://accuaddress.streamlit.app/](https://accuaddress.streamlit.app/)
+[https://addrcheck.streamlit.app/](https://addrcheck.streamlit.app/)
 
 You can upload your own test files or use the provided sample data to explore its features.
 
@@ -52,7 +52,7 @@ Docker is also provided for easy containerized deployment, allowing you to run t
 
 1️⃣ Clone the repo:
 ```bash
-git clone https://github.com/yourusername/accuaddress.git
+git clone https://github.com/chanlekkala/address-matcher-app
 cd accuaddress
 ```
 
